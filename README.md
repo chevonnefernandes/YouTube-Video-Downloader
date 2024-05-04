@@ -29,7 +29,7 @@ Replace `your_username` with your GitHub username.
 2. Install the required Python dependencies. You can use pip for this:
 ```
 pip install -r requirements.txt
-``
+```
 
 3. Run the application:
 ```
