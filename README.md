@@ -3,7 +3,7 @@
 
 ## Overview
 
-YouTube Downloader is a simple desktop application built with Python and Tkinter that allows users to download high resolution videos from YouTube. It provides a user-friendly interface for inserting YouTube video links, monitoring the download progress, and displaying download status.
+YouTube Downloader is a simple application built with Python and Tkinter that allows users to download high resolution videos from YouTube. It provides a user-friendly interface for inserting YouTube video links, monitoring the download progress, and displaying download status.
 
 ## Features
 
