@@ -13,10 +13,14 @@ YouTube Downloader is a simple desktop application built with Python and Tkinter
 
 ## Usage
 
-1. Enter the URL of the YouTube video you want to download.
-2. Click the "Download" button to start downloading the video.
-3. The progress bar and percentage will update as the download progresses.
-4. The download status will indicate when the download is complete.
+1. Run the Python script:
+```
+python main.py
+```
+2. Enter the URL of the YouTube video you want to download.
+3. Click the "Download" button to start downloading the video.
+4. The progress bar and percentage will update as the download progresses.
+5. The download status will indicate when the download is complete.
 
 ## Installation
 
