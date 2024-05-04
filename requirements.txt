@@ -1,0 +1,3 @@
+# tkinter (Included in Python standard library)
+customtkinter==5.2.2
+pytube==11.0.0
