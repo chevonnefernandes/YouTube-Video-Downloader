@@ -13,7 +13,7 @@ YouTube Downloader is a simple desktop application built with Python and Tkinter
 
 ## Usage
 
-1. Run the Python script:
+1. Launch the YouTube Video Downloader application:
 ```
 python main.py
 ```
@@ -39,7 +39,6 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
-This will launch the YouTube Video Downloader application.
 
 ## Dependencies
 
