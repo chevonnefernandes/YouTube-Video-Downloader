@@ -1,6 +1,5 @@
 # YouTube Video Downloader
-
-(YouTubeVideoDownloader.png)
+![YouTubeVideoDownloader](https://github.com/chevonnefernandes/YouTube-Video-Downloader/assets/161243278/4a9ebd01-32a4-422d-9a48-09c8267c654c)
 
 ## Overview
 
