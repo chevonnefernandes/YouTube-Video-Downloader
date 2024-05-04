@@ -1,6 +1,6 @@
 # YouTube Video Downloader
 
-![YouTubeVideoDownloader](https://github.com/chevonnefernandes/YouTube-Video-Downloader/assets/161243278/5f43a883-b8fc-4fb7-8ab5-f92624c97b40)
+![YouTubeVideoDownloader](https://github.com/chevonnefernandes/YouTube-Video-Downloader/assets/161243278/334feef3-bddb-4621-9398-a34d7d0a32d2)
 
 ## Overview
 
