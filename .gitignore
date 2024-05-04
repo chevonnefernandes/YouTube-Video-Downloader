@@ -1,0 +1,2 @@
+# Ignore downloaded YouTube videos
+*.mp4   # Ignore files with .mp4 extension
